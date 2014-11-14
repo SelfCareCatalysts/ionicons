@@ -1,7 +1,7 @@
 {
-  "build_hash": "",
+  "build_hash": "b486057da1da7becbb3c18cf3397424f",
   "prefix": "ion-",
-  "version": "1.5.2",
+  "version": "1.5.2.1",
   "name": "Ionicons",
   "icons": [
     {
@@ -2023,6 +2023,10 @@
     {
       "code": "0xf349",
       "name": "ribbon-b"
+    },
+    {
+      "code": "0xf359",
+      "name": "rx"
     },
     {
       "code": "0xf34a",
